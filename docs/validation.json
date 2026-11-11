@@ -1,0 +1,379 @@
+{
+  "name": "krakow-transit-accessibility",
+  "opened": true,
+  "tested_from_different_directory": true,
+  "local_layers": [
+    {
+      "name": "centroidy_kmk",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "Przystanki_tramwajowe",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "Przystanki_tramwajowe",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "Przystanki_tramwajowe",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "UA_2018_5m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "alok_bufor_bez_tla",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "alok_wek",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "alokacja_bufor",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "alokacja_do_przystankow",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "bufor500m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "centroidy_kmk",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:3120"
+    },
+    {
+      "name": "centroidy_kmk copy",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "centroidy_kmk",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "centroidy_kmk",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "dzielnice_5m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "dzielnice_Krakowa",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "ilosc_przyst_dzieln",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "izochrony",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "izochrony_maska",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "izochrony_w2",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "jedn_urb_5m",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "jedn_urb_Krakowa",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "ludnosc_BDOT",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "przyst \u2014 ludnosc_alok",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "ludnosc_alok",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "ludnosc_alok_wek",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "maska_2180",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "maska_odl_v2",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "maska_odl_v3",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "odl_od_przyst_WRAPED",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "odl_od_przyst_maska_v2",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "odl_od_przyst_v2",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "odl_od_przystankow_maska",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "przystanki_2180",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "przystanki_MPK_Krakow_2180",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "przystanki_tramwajowe_msip_2180",
+      "valid": true,
+      "provider": "gdal",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": "EPSG:2180"
+    },
+    {
+      "name": "raport_izochrony",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_bufor500m",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_do500m",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_dzielnicy_bufor",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_jedn_bufor",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "top10_najgorszych \u2014 stat_jedn_bufor",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_ludn_izochrony",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_ludnosc_izochrony",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    },
+    {
+      "name": "stat_ludnosc_izochrony_v2",
+      "valid": true,
+      "provider": "ogr",
+      "inside_relocated_copy": true,
+      "exists": true,
+      "crs": ""
+    }
+  ],
+  "external_layers": [
+    {
+      "name": "OpenStreetMap",
+      "valid": true,
+      "provider": "wms"
+    }
+  ],
+  "layouts": [
+    "MPK_map",
+    "MPK_map10"
+  ],
+  "map_export_success": true
+}
