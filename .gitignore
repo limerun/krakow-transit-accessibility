@@ -1,6 +1,4 @@
-data/*
-!data/README.md
-!data/manifest.csv
+data/
 .DS_Store
 *.qgz~
 *.qgs~

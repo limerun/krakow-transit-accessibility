@@ -1,6 +1,6 @@
 # Public transport accessibility in Krakow
 
-![Project map](outputs/map.png)
+![Project map](map.png)
 
 ## About the project
 
@@ -20,4 +20,4 @@ I used QGIS to study how close people in Krakow live to public transport stops. 
 2. Extract the archive and open `project.qgz` in QGIS. Keep the `data` folder next to it.
 3. Internet is needed for the OpenStreetMap background. Tested with QGIS 3.42.1.
 
-The repository contains the map, project file and documentation. The ZIP in Releases also includes all required data files. See [data sources](DATA_SOURCES.md).
+The repository contains the map, project file and documentation. The ZIP in Releases also includes all required data files.
